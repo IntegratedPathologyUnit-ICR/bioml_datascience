@@ -1,6 +1,6 @@
 ## Machine learning – From Mathematical Foundations to advanced optimization
 
-# Course contains mathematical examples to work on during the session or to get a quick recap
+### Course contains mathematical examples to work on during the session or to get a quick recap
 
 Examples are curated for multidisciplinary audience
 
